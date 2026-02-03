@@ -95,4 +95,3 @@ if uploaded_file:
 else:
     # State Awal
     st.info("Silakan unggah file Excel di sidebar untuk memulai.")
-    st.image("https://raw.githubusercontent.com/ultralytics/yolov5/master/data/images/bus.jpg", caption="Contoh format data: Baris untuk entitas, Kolom untuk skor.", width=400)
